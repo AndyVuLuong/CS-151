@@ -1,0 +1,2 @@
+Int is a primitive date type. It is considered a simple data type that hold a single value.
+Integer is a class in Java.lang.Number package. It is a wrapper class for inter values and includes method and functionality that do not come with int variables. Int is faster to work with but do not have special capabilities. Integer can take up more resources and can use the methods listed from the Java API like toString(), parseInt(), hashCode(), and equals().

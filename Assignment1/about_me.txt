@@ -1,0 +1,30 @@
+•Your name as you are registered for the class 
+Andy Luong
+
+•What is your preferred name you’d like to be called by (if you have one) 
+Andy Luong
+
+•Your student ID 
+014222676
+
+•Your major 
+Computer Science
+
+•Your preferred email address 
+andy.v.luong@sjsu.edu
+
+•Undergraduate/graduate/open university student status 
+
+•Are you a graduating senior? •Are you repeating the class? 
+I am a sophomore. No.
+
+
+•List other CS courses you’ve completed so far at SJSU
+AP Computer Science, CS 46B, CS 146, CS 47
+
+•Any additional information you would like me to know about you? 
+I explored using other programming languages on GitHub.
+
+•If we get the time during this semester I’d like to cover some special topics. Are there any specific topics you are interested in? I will try to accommodate majority interest in my lectures
+So far no.
+ 
